@@ -11,6 +11,13 @@ h1 {
   font-weight: bold;
   text-align: center;
 }
+div{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+
+}
 
 input[type="checkbox"] {
   color: white;
